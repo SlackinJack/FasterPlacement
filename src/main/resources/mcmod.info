@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fasterplacement",
+  "name": "FasterPlacement",
+  "description": "Customizable faster placement of blocks. Crafted with love and tears.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Slackin' Jack#0001"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
